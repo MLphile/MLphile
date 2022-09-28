@@ -2,8 +2,8 @@
 
 ## I'm a Husband, Father and Machine Learning enthusiast!
 
-- 💻 I’m currently working on a project about vehicle detection and tracking
-- 🌱 I’m currently learning MLops concepts
+- 💻 I’m currently working on a project about drowsiness detection
+- 🌱 I’m currently learning Power BI
 - 💼 Looking for job opportunities in the AI sector 
 - ⚡ Fun fact: I love playing 🎹 and 🚴  
 
