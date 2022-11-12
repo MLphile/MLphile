@@ -3,7 +3,7 @@
 ## I'm a Husband, Father and Machine Learning enthusiast!
 
 - 💻 I’m currently working on a project about vehicle tracking
-- 💼 Looking for job opportunities in AI and the fascinating world of data 
+- 💼 Looking for job opportunities in AI and the fascinating world of programming
 - ⚡ Fun fact: I love playing 🎹 and 🚴  
 
 ### Languages and Tools:
