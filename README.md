@@ -2,7 +2,9 @@
 
 ## I'm a Husband, Father and Machine Learning enthusiast!
 
-- 💻 I’m currently working on a project about vehicle tracking
+- 💻 I’m currently collaborating on 2 interesting projects:
+   * [Stopping online violence against children using NLP](https://omdena.com/projects/stop-online-violence-against-children/);
+   * [Flood extent mapping using computer vision on satellite imagery](https://omdena.com/projects/flood-extent-mapping/)
 - 💼 Looking for job opportunities in AI and the fascinating world of programming
 - ⚡ Fun fact: I love playing 🎹 and 🚴  
 
